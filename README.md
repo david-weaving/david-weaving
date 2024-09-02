@@ -8,3 +8,9 @@ I'm an undergraduate student at Cal Poly SLO pursuing a degree in Computer Scien
 - [Function Prediction Website](https://www.functionprediction.com/): A web-based tool for predicting mathematical functions.
 - Machine learning project that uses TensorFlow to recognize arrows and follow the direction they point.
 - A Discord bot that automates tasks and plays small games for community engagement.
+
+## 📚 Education
+
+Associate of Science in Computer Science, College of the Sequoias
+Associate of Science in Mathematics, College of the Sequoias
+Associate of Science in Physics, College of the Sequoias
