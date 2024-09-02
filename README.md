@@ -1,7 +1,7 @@
 
-# Hi, I'm David Weaver 👋
+# 🧮 David Weaver
 
-I am an undergraduate student at California Polytechnic State University, San Luis Obispo, pursuing a degree in Computer Science.
+Undergraduate student at California Polytechnic State University, San Luis Obispo, pursuing a degree in Computer Science.
 
 ## 💻 Projects
 
@@ -9,4 +9,5 @@ I am an undergraduate student at California Polytechnic State University, San Lu
 - Machine learning project that uses TensorFlow to recognize arrows and follow the direction they point.
 - A Discord bot that automates tasks and plays small games for community engagement.
 
-## About Me
+## 👨‍💻 About Me
+
