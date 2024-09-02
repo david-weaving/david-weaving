@@ -11,6 +11,11 @@ I'm an undergraduate student at Cal Poly SLO pursuing a degree in Computer Scien
 
 ## 📚 Education
 
-Associate of Science in Computer Science, College of the Sequoias
-Associate of Science in Mathematics, College of the Sequoias
-Associate of Science in Physics, College of the Sequoias
+Associate of Science in Computer Science  
+College of the Sequoias  
+
+Associate of Science in Mathematics  
+College of the Sequoias  
+
+Associate of Science in Physics  
+College of the Sequoias
