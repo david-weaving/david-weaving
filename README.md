@@ -1,5 +1,5 @@
 
-# 🧮 David Weaver
+# Hi, I'm David Weaver 👋
 
 Undergraduate student at California Polytechnic State University, San Luis Obispo, pursuing a degree in Computer Science.
 
