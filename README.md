@@ -5,8 +5,6 @@ I am an undergraduate student at California Polytechnic State University, San Lu
 
 ## 💻 Projects
 
-Completed Projects:
-
 - [Function Prediction Website](https://www.functionprediction.com/): A web-based tool for predicting mathematical functions.
 - Machine learning project that uses TensorFlow to recognize arrows and follow the direction they point.
 - A Discord bot that automates tasks and plays small games for community engagement.
