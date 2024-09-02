@@ -1,7 +1,7 @@
 
 # Hi, I'm David Weaver 👋
 
-I'm an undergraduate student at California Polytechnic State University, San Luis Obispo, pursuing a degree in Computer Science. My passion lies in coding, math, and physics. I love problem solving and enjoy taking on tough challenges.
+I'm an undergraduate student at California Polytechnic State University, San Luis Obispo, pursuing a degree in Computer Science. My passion lies in coding, math, and physics. I love problem solving and enjoy taking on tough challenges. I'm fascinated by algorithm design, AI/ML, and the mathematical foundations of computing.
 
 ## 💻 Projects
 
