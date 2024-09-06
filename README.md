@@ -8,7 +8,7 @@ I'm an undergraduate student at Cal Poly SLO pursuing a degree in Computer Scien
 - [Function Prediction Website](https://www.functionprediction.com/): A web-based tool for predicting mathematical functions.
 - Machine learning project that uses TensorFlow to recognize arrows and follow the direction they point.
 - A Discord bot that automates tasks and plays small games for community engagement.
-- [Super Tic-Tac-Toe Game](https://david-weaving.github.io/super_tic_tac_toe/): Small application that plays a more advanced version of tic tac toe.
+- [Super Tic-Tac-Toe Game](https://david-weaving.github.io/super_tic_tac_toe/): Small application that plays a more advanced version of tic tac toe (locally).
 
 ## 📚 Education
 
